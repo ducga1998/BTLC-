@@ -1,0 +1,188 @@
+art|Nghe thuat
+world|The gioi
+information|Thong tin
+map|Ban do
+two|Hai
+family|Gia dinh
+government|Chinh phu
+health|Suc khoe
+system|He thong
+computer|May tinh
+meat|Thit
+year|Nam
+thanks|Loi cam on
+music|Am nhac
+person|Nguoi
+reading|Cach doc
+method|Phuong phap
+data|Du lieu
+food|Thuc an
+understanding|Hieu biet
+theory|Ly thuyet
+law|Phap luat
+bird|Chim
+literature|Van chuong
+problem|Van de
+software|Phan mem
+control|Kiem soat
+knowledge|Kien thuc
+power|Quyen luc
+ability|Kha nang
+economics|Kinh te hoc
+love|Tinh Yeu
+internet|Internet
+television|Tivi
+science|Khoa hoc
+library|Thu vien
+nature|Ban chat
+fact|Viec
+product|San pham
+idea|Y kien
+temperature|Nhiet do
+investment|Dau tu
+area|Khu vuc
+society|Xa hoi
+activity|Hoat dong
+story|Cau chuyen
+industry|Nganh cong nghiep
+media|Phuong tien truyen thong
+thing|nhung vat
+oven|Lo nuong
+community|Cong dong
+definition|Dinh nghia
+safety|Su an toan
+quality|Chat luong
+development|Phat trien
+language|Ngon ngu
+management|Quan ly
+player|Nguoi choi
+variety|Nhieu
+video|Video
+week|Tuan
+security|An ninh
+country|Nuoc
+exam|Thi
+movie|Phim
+organization|Co quan
+equipment|Thiet bi
+physics|Vat ly
+analysis|Nghien cuu
+policy|Chinh sach
+series|Loat
+thought|Tu tuong
+basis|Can cu
+boyfriend|Ban trai
+direction|Phuong huong
+strategy|Chien luoc
+technology|Cong nghe
+army|Quan doi
+camera|May chup hinh
+freedom|Su tu do
+paper|Giay
+environment|Moi truong
+child|Tre em
+instance|Truong hop
+month|Thang
+truth|Su that
+marketing|Thi truong
+university|Truong dai hoc
+writing|Viet
+article|Dieu khoan
+department|Bo
+difference|Khac nhau
+goal|Muc tieu
+news|Tin tuc
+audience|Khan gia
+fishing|Danh ca
+growth|Tang truong
+income|Loi tuc
+marriage|Hon nhan
+user|Nguoi su dung
+combination|Phoi hop
+failure|That bai
+meaning|Nghia
+medicine|Y hoc
+philosophy|Triet hoc
+teacher|Giao vien
+communication|Lien lac
+night|Dem
+chemistry|Hoa hoc
+disease|Can benh
+disk|Dia
+energy|Nang luong
+nation|Quoc gia
+road|Duong
+role|Vai tro
+soup|Soup
+advertising|Quang cao
+location|Vi tri
+success|Su thanh cong
+addition|Them vao
+apartment|Can ho
+education|Su giao duc
+math|Toan hoc
+moment|Choc lat
+painting|Buc tranh
+politics|Chinh tri
+attention|Chu y
+decision|Phan quyet
+event|Bien co
+property|Bat dong san
+shopping|Muasam
+student|Sinh vien
+wood|Go
+competition|Cuoc thi
+distribution|Phan phat
+entertainment|Giai tri
+office|Van phong
+population|Dan so
+president|Chu tich
+unit|Don vi
+category|The loai
+cigarette|Thuoc la
+context|Boi canh
+introduction|Su gioi thieu
+opportunity|Co hoi
+performance|Hieu suat
+driver|Nguoi lai xe
+flight|Chuyen bay
+length|Chieu dai
+magazine|Tap chi
+newspaper|Bao
+relationship|Moi quan he
+teaching|Giang day
+cell|Te bao
+dealer|Nguoi chia bai
+debate|Tranh luan
+finding|Phat hien
+lake|Ho
+member|Thanh vien
+message|Thong diep
+phone|Dien thoai
+scene|San khau
+appearance|Xuat hien
+association|Su ket hop
+concept|Khai niem
+customer|Khach hang
+death|Su chet
+discussion|Thao luan
+housing|Nha o
+inflation|Su lam phat
+insurance|Bao hiem
+mood|Khi sac
+woman|Dan ba
+advice|Loi khuyen
+blood|Mau
+effort|Co gang
+expression|Bieu hien
+importance|Tam quan trong
+opinion|Y kien
+payment|Thanh toan
+reality|Thuc te
+responsibility|Trach nhiem
+situation|Tinh hinh
+skill|Ky nang
+statement|Tuyen bo
+wealth|Su giau co
+application|Ung dung
+city|Thanh pho
